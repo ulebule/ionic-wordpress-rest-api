@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-wordpress-rest-api",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
