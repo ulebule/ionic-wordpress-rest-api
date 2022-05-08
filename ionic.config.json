@@ -1,0 +1,7 @@
+{
+  "name": "ionic-wordpress-rest-api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
